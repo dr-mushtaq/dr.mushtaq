@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, Dr. Mushtaq Hussain
+### Hi there 👋, Dr. Mushtaq Hussain
 ![Assistant Professor and Data Science Expert ](https://github.com/hussain0048/hussain0048/blob/main/Bnner%202.jpg)
 
 I am an experienced trainer and assistant professor with a demonstrated history of working in the corporate and education industry. I am a Data Science expert with skills in python, Matlab, rapid minor, machine learning, deep learning, and data analysis.  
