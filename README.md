@@ -2,7 +2,7 @@
 ![Assistant Professor and Data Science Expert ](https://github.com/hussain0048/hussain0048/blob/main/Bnner%202.jpg)
 
 I am an experienced trainer and assistant professor with a demonstrated history of working in the corporate and education industry. I am a Data Science expert with skills in python, Matlab, rapid minor, machine learning, deep learning, and data analysis.  
-With extensive working experience in ML and Deep Learning, I am also an Assistant Professor at University Haripur, Haripur Pakistan.
+With extensive working experience in ML and Deep Learning, I am also an Assistant Professor at Virtual University of Pakistan.
 
 
 
