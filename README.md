@@ -8,11 +8,11 @@ With extensive working experience in ML and Deep Learning, I am also an Assistan
 
 Skills: Python (Kera, Sklearn) / Matlab /
 
-- 🔭 I’m currently working on Build teacher Moodle Dashboard plugin using Deep learning and Machine learning 
+- 🔭 I’m currently working on Developing an AI-based chatbot system for Virtual University using Deep learning and Machine learning 
 - 🌱 I’m currently learning Time Series analysis using Deep Learning and Machine Learning 
 - 👯 I’m looking to collaborate on  Data Science Research Projects 
 - 📫 How to reach me: mushtaqmsit@gmail.com 
-- ⚡ Fun fact: Movies , Basketball 
+- ⚡ Fun fact: Movies, Basketball 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mushtaq-hussain-21417814/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mushtaq.942)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahdiacademy.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)  
