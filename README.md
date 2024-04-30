@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I code with Python 🐍</h3>
+<h3 align="left">Language and Tools 🐍</h3>
 
 ###
 
