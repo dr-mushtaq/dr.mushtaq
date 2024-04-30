@@ -1,4 +1,8 @@
 ### Hi there 👋, Dr. Mushtaq Hussain
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
 ![Assistant Professor and Data Science Expert ](https://github.com/hussain0048/hussain0048/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png)
 
 👋 Greetings! I'm Mushtaq Hussain, a seasoned trainer and Assistant Professor renowned for my extensive experience in both industry and academia. My expertise lies in the dynamic realm of Data Science, where I excel in harnessing the power of Python, MATLAB, RapidMiner, and a comprehensive suite of cutting-edge tools. With a robust background in machine learning and deep learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of data-driven solutions.
