@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there 👋 Dr.Mushtaq Hussain?</h1>
+<h1 align="left">Hi there 👋 Dr.Mushtaq Hussain</h1>
 
 ###
 ![Assistant Professor and Data Science Expert ](https://github.com/hussain0048/hussain0048/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png)
