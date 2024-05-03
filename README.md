@@ -52,10 +52,15 @@ Skills: Python (Kera, Sklearn) / Matlab /
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 ✴️: Skills :
+
 Programming languages : Python [NumPy, Pandas, Scikit-learn, Keras]
+
 Databases: My SQL,
+
 Tools : Streamlit , Jupyter Notebook, Google Collab, Pycaret
+
 Visualization and Analytical Tools: Tableau, Matplotlib, Seaborn, PowerBI
+
 Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
 
 ###
