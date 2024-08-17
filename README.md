@@ -63,6 +63,9 @@ Skills: Python (Kera, Sklearn) / Matlab /
 4. Visualization and Analytical Tools: Tableau, Matplotlib, Seaborn, PowerBI
 5. Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
 
+### Visitor Counter
+![VisitorCounter](https://profile-counter.glitch.me/hussain0048/count.svg)
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain0048&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
