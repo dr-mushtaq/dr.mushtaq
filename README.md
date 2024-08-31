@@ -57,11 +57,12 @@ Skills: Python (Kera, Sklearn) / Matlab /
 
 ✴️: Skills :
 
-1. Programming languages : Python [NumPy, Pandas, Scikit-learn, Keras]
-2. Databases: My SQL,
-3. Tools : Streamlit , Jupyter Notebook, Google Collab, Pycaret
-4. Visualization and Analytical Tools: Tableau, Matplotlib, Seaborn, PowerBI
-5. Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
+1. **Programming languages** : Python [NumPy, Pandas, Scikit-learn, Keras]
+2. **Databases**: My SQL,
+3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
+4. **Visualization and Analytical Tools**: Tableau, Matplotlib, Seaborn, PowerBI
+5. **Machine Learning Skills** - Data Preprocessing, Data Visualization , Model Validation and peformance, Regression, Classification, Neural network analysis
+6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
 
 ### Visitor Counter
 ![VisitorCounter](https://profile-counter.glitch.me/hussain0048/count.svg)
