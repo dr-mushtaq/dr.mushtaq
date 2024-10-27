@@ -1,7 +1,6 @@
 
 <h1 align="left">Hi there 👋 Dr.Mushtaq Hussain</h1>
 
-###![Assistant Professor and Data Science Expert ]([https://github.com/hussain0048/dr-mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png](https://github.com/dr-mushtaq/dr.mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png))
 
 👋 Greetings! I'm Mushtaq Hussain, a seasoned trainer and Assistant Professor renowned for my extensive experience in both industry and academia. My expertise lies in the dynamic realm of Data Science, where I excel in harnessing the power of Python, MATLAB, RapidMiner, and a comprehensive suite of cutting-edge tools. With a robust background in machine learning and deep learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of data-driven solutions.
 
@@ -64,13 +63,7 @@ Skills: Python (Kera, Sklearn) / Matlab /
 6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
 
 ### Visitor Counter
-![VisitorCounter](https://profile-counter.glitch.me/hussain0048/count.svg)
+![VisitorCounter](https://profile-counter.glitch.me/dr-mushtaq/count.svg)
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain0048&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hussain0048&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain0048&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
 
