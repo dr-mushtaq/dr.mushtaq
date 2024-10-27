@@ -1,6 +1,5 @@
-## **A-Z Guide to Research Work 👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Research-Work/blob/main/Research%20Work%20(1).png"></a>
+<img src="https://github.com/dr-mushtaq/dr-mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png"></a>
 </p>
 <h1 align="left">Hi there 👋 Dr.Mushtaq Hussain</h1>
 
