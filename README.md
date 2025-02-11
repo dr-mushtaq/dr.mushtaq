@@ -57,7 +57,7 @@ Skills: Python (Kera, Sklearn) / Matlab /
 
 ✴️: Skills :
 
-1. **Backend (EMR)** : ERPNext Healthcare
+1. *Programming languages** : Python [NumPy, Pandas, Scikit-learn, Keras
 2. **Databases**: My SQL,
 3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
 4. **Visualization and Analytical Tools**: Tableau, Matplotlib, Seaborn, PowerBI
